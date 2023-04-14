@@ -1,0 +1,12 @@
+../Core/Drivers/usb-pd/lib/FUSB302/fusb302b.cpp:24:6:void FUSB302::fusb_send_message(const pd_msg*) const	32	static
+../Core/Drivers/usb-pd/lib/FUSB302/fusb302b.cpp:63:6:bool FUSB302::fusb_rx_pending() const	16	static
+../Core/Drivers/usb-pd/lib/FUSB302/fusb302b.cpp:68:9:uint8_t FUSB302::fusb_read_message(pd_msg*) const	32	static
+../Core/Drivers/usb-pd/lib/FUSB302/fusb302b.cpp:97:6:void FUSB302::fusb_send_hardrst() const	16	static
+../Core/Drivers/usb-pd/lib/FUSB302/fusb302b.cpp:103:6:bool FUSB302::fusb_setup() const	24	static
+../Core/Drivers/usb-pd/lib/FUSB302/fusb302b.cpp:161:6:bool FUSB302::runCCLineSelection() const	24	static
+../Core/Drivers/usb-pd/lib/FUSB302/fusb302b.cpp:199:6:bool FUSB302::fusb_get_status(fusb_status*) const	24	static
+../Core/Drivers/usb-pd/lib/FUSB302/fusb302b.cpp:205:25:fusb_typec_current FUSB302::fusb_get_typec_current() const	24	static
+../Core/Drivers/usb-pd/lib/FUSB302/fusb302b.cpp:214:6:bool FUSB302::fusb_reset() const	16	static
+../Core/Drivers/usb-pd/lib/FUSB302/fusb302b.cpp:231:6:bool FUSB302::fusb_read_id() const	32	static
+../Core/Drivers/usb-pd/lib/FUSB302/fusb302b.cpp:250:9:uint8_t FUSB302::fusb_read_byte(uint8_t) const	32	static
+../Core/Drivers/usb-pd/lib/FUSB302/fusb302b.cpp:265:6:bool FUSB302::fusb_write_byte(uint8_t, uint8_t) const	24	static

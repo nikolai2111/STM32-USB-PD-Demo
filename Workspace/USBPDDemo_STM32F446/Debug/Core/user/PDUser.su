@@ -1,0 +1,11 @@
+C:/Users/nikol/GitRepositories/USB-C_Lab-Power-Supply/02_PtHw_ProjectStudy/code/playground/STM32-USB-PD-Demo/Workspace/USBPDDemo_STM32F446/Core/Drivers/usb-pd/lib/FUSB302/fusb302b.h:30:3:FUSB302::FUSB302(uint8_t, FUSB302::I2CFunc, FUSB302::I2CFunc, FUSB302::DelayFunc)	24	static
+C:/Users/nikol/GitRepositories/USB-C_Lab-Power-Supply/02_PtHw_ProjectStudy/code/playground/STM32-USB-PD-Demo/Workspace/USBPDDemo_STM32F446/Core/Drivers/usb-pd/lib/Inc/policy_engine.h:43:3:PolicyEngine::PolicyEngine(FUSB302, PolicyEngine::TimestampFunc, PolicyEngine::DelayFunc, PolicyEngine::SinkCapabilityFunc, PolicyEngine::EvaluateCapabilityFunc)	24	static
+../Core/user/PDUser.cpp:16:6:bool irc_write(uint8_t, uint8_t, uint8_t, uint8_t*)	32	static
+../Core/user/PDUser.cpp:21:6:bool irc_read(uint8_t, uint8_t, uint8_t, uint8_t*)	32	static
+../Core/user/PDUser.cpp:32:6:void pd_user_main()	8	static
+../Core/user/PDUser.cpp:56:6:void HAL_GPIO_EXTI_Callback(uint16_t)	16	static
+../Core/user/PDUser.cpp:62:6:bool pdbs_dpm_evaluate_capability(const pd_msg*, pd_msg*)	48	static
+../Core/user/PDUser.cpp:158:6:void pdbs_dpm_get_sink_capability(pd_msg*, bool)	24	static
+C:/Users/nikol/GitRepositories/USB-C_Lab-Power-Supply/02_PtHw_ProjectStudy/code/playground/STM32-USB-PD-Demo/Workspace/USBPDDemo_STM32F446/Core/Drivers/usb-pd/lib/Inc/ringbuffer.h:10:12:ringbuffer<T, size>::ringbuffer() [with T = pd_msg; unsigned int size = 4]	16	static
+../Core/user/PDUser.cpp:199:1:void __static_initialization_and_destruction_0(int, int)	40	static
+../Core/user/PDUser.cpp:199:1:cpp)	8	static
